@@ -8,13 +8,16 @@ It put pictures of two women side by side and prompted the user to pick a woman 
 
 It would then carry forward the selected woman and display another woman for the user to choose from.
 
-The entire process was fetured in his biopic: The Social Network(2010) [IMDb page]("https://www.imdb.com/title/tt1285016/").
+The entire process was fetured in his biopic: The Social Network(2010) 
+
+[IMDb page]("https://www.imdb.com/title/tt1285016/").
 
 Here's the scene from the actual movie:
 
 https://user-images.githubusercontent.com/124871546/217770434-7dedb9d7-6529-4526-9d5a-f8d2ae0c40a7.mp4
 
-If the above video does not play: [Click Here]("https://youtu.be/BPazh2kDdvA").
+If the above video does not play: 
+[Click Here]("https://youtu.be/BPazh2kDdvA").
 
 My version of this site is not going to be the same.
 
