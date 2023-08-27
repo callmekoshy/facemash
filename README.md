@@ -1,6 +1,6 @@
 **FaceMash** 
 
-A website made by a drunk Harvard sophomore
+Made by a drunk Harvard sophomore
 
 Points --
 
