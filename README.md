@@ -16,9 +16,9 @@ Here's the scene from the actual movie:
 
 https://user-images.githubusercontent.com/124871546/217770434-7dedb9d7-6529-4526-9d5a-f8d2ae0c40a7.mp4
 
-If the above video does not play: 
+for audio: 
 <a href="https://youtu.be/BPazh2kDdvA">Click Here</a>
 
 
-
+wtf do i compare
 
