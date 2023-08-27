@@ -1,17 +1,16 @@
-#**FaceMash** - (My Version)
+**FaceMash** 
 
-Facemash was a website that was made by a very drunk Mark Zuckerberg during his days as a sophomore at Harvard.
+A website made by a drunk Harvard sophomore
 
-It accessed the digital directories of dorms and pulled the pictures of all female students into its own private directory.
+Points --
 
-It put pictures of two women side by side and prompted the user to pick a woman based on their attractiveness.
+-- Accessed the digital directories of dorms, pulled the pictures of all female students into its own private directory (simple wget magic on databases basically).
 
-It would then carry forward the selected woman and display another woman for the user to choose from.
+-- Arrange pictures of two women side by side, prompting the user to pick a woman based on their attractiveness (tinder before tinder ).
 
-The entire process was fetured in his biopic: The Social Network(2010) <a href="https://www.imdb.com/title/tt1285016">[IMDb Page]</a>
+-- Carry forward the selected woman and display another woman for the user to choose from.
 
-
-
+Credits : The Social Network(2010) <a href="https://www.imdb.com/title/tt1285016">[IMDb Page]</a>
 
 Here's the scene from the actual movie:
 
@@ -19,10 +18,6 @@ https://user-images.githubusercontent.com/124871546/217770434-7dedb9d7-6529-4526
 
 If the above video does not play: 
 <a href="https://youtu.be/BPazh2kDdvA">Click Here</a>
-
-My version of this site is not going to be the same.
-
-I'm going to bulid a similar site which compares something different such as for a place to start: Holiday Destinations (To keep the site clean)
 
 
 
